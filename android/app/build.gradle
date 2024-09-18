@@ -1,0 +1,85 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+//println flutter.minSdkVersion
+//println flutter.targetSdkVersion
+
+android {
+    namespace = "com.angcyo.flutter_flavor_demo"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId = "com.angcyo.flutter_flavor_demo"
+        // You can update the following values to match your application needs.
+        // For more information, see: https://flutter.dev/to/review-gradle-config.
+        minSdk = flutter.minSdkVersion
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    flavorDimensions = ["default"]
+
+    productFlavors {
+        free {
+            dimension "default"
+            resValue "string", "flavor_name", "free_default"
+            //applicationIdSuffix ".free"
+            //versionNameSuffix "-free"
+        }
+        normal {
+            dimension "default"
+            resValue "string", "flavor_name", "normal_default"
+            //applicationIdSuffix ".normal"
+            //versionNameSuffix "-normal"
+        }
+        vip {
+            dimension "default"
+            resValue "string", "flavor_name", "vip_default"
+            //applicationIdSuffix ".vip"
+            //versionNameSuffix "-vip"
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig = signingConfigs.debug
+            minifyEnabled = false
+            debuggable = true
+            resValue "string", "build_type_name", "debug type"
+        }
+        pretest {
+            signingConfig = signingConfigs.debug
+            minifyEnabled = true
+            debuggable = true
+            resValue "string", "build_type_name", "pretest type"
+        }
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            signingConfig = signingConfigs.debug
+            minifyEnabled = true
+            debuggable = false
+            resValue "string", "build_type_name", "release type"
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
