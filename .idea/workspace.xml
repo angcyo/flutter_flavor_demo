@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4a9565c-b039-4e05-9389-b66f871d239f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/limited-wip.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner copy-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-38@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-38@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-64@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-64@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-68@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/DevAssets.xcassets/DevAppIcon.appiconset/icon-83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main_free_dart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/free.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/free.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/vip.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/vip.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2mettb7p9fXiy2lV0XnbizyIKXC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "Flutter.main_dev.dart.executor": "Run",
+    "Flutter.main_free.dart.executor": "Run",
+    "Flutter.main_vip.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Flutter.main_dev.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_dev.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="buildFlavor" value="dev" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_free.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="buildFlavor" value="free" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_normal.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="buildFlavor" value="normal" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_vip.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="buildFlavor" value="vip" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter.main_normal.dart" />
+      <item itemvalue="Flutter.main_free.dart" />
+      <item itemvalue="Flutter.main_vip.dart" />
+      <item itemvalue="Flutter.main_dev.dart" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4a9565c-b039-4e05-9389-b66f871d239f" name="Changes" comment="" />
+      <created>1727449085014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727449085014</updated>
+    </task>
+    <servers />
+  </component>
+</project>
